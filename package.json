@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "network",
+    "reset",
+    "reset-network",
+    "clash",
+    "tun",
+    "office"
+  ],
   "author": "MEI 1596944197@qq.com",
   "license": "MIT",
   "dependencies": {
