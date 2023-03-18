@@ -1,6 +1,6 @@
 {
   "name": "reset-network",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "用于重置网络的函数",
   "main": "./index.mjs",
   "scripts": {
