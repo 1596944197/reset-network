@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "MEI 1596944197@qq.com",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@types/node": "^18.15.3"
   },
