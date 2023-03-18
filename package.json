@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1596944197/reset-network"
   }
 }
